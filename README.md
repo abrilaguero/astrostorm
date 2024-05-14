@@ -14,7 +14,7 @@ Astrostorm is an exciting space-themed game developed using HTML and JavaScript.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/astrostorm.git
+   git clone https://github.com/abrilaguero/astrostorm.git
    
 2. Open index.html in your browser.
 
